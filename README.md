@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Nilamani Kundu<br><br>💻 Computer Science Student <br><br>🔭 I’m currently working on Python & Flask Web Applications<br>🌱 I’m currently learning Data Structures & Algorithms, APIs, and Backend Development<br>👯 I’m looking to collaborate on Open Source & Web Development Projects<br>🤝 I’m looking for help with Cloud Deployment & Advanced Backend Development<br>💬 Ask me about Python, Flask, MySQL, HTML, CSS<br>⚡ Fun fact: I enjoy turning ideas into real-world projects 🚀
+
+Hi 👋, I'm Nilamani Kundu<br><br>🔭 I’m currently working on Python & Flask Web Applications<br>🌱 I’m currently learning Data Structures & Algorithms, APIs, and Backend Development<br>👯 I’m looking to collaborate on Open Source & Web Development Projects<br>🤝 I’m looking for help with Cloud Deployment & Advanced Backend Development<br>💬 Ask me about Python, Flask, MySQL, HTML, CSS<br>⚡ Fun fact: I enjoy turning ideas into real-world projects 🚀
 
 
 ## 🌐 Socials:
