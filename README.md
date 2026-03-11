@@ -12,9 +12,10 @@ Hi 👋, I'm Nilamani Kundu<br><br>💻 Computer Science Student <br><br>🔭 I�
 ![](https://nirzak-streak-stats.vercel.app/?user=Nilamani77&theme=yeblu&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilamani77&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-“Programs must be written for people to read, and only incidentally for machines to execute.”
-— Harold Abelson
+### ✍️ Developer Quote
+
+> “Clean code always looks like it was written by someone who cares.”
+> — Robert C. Martin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nilamani77&icon=2&color=0)](https://visitcount.itsvg.in)
