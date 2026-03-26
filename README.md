@@ -59,11 +59,15 @@ Hi 👋, I'm **Nilamani Kundu**
 
 ---
 
-## 🟩 Contribution Snake 🐍  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nilamani77/Nilamani77/output/github-contribution-grid-snake.svg"/>
-</p>
+## 🐍 Contribution Snake  
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nilamani77/Nilamani77/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nilamani77/Nilamani77/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Nilamani77/Nilamani77/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 ---
 ### ✍️ Developer Quote
 
