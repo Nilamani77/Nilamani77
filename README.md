@@ -68,7 +68,10 @@ Hi 👋, I'm **Nilamani Kundu**
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Nilamani77/Nilamani77/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+
 ---
+
 ### ✍️ Developer Quote
 
 > “Clean code always looks like it was written by someone who cares.”
