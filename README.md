@@ -44,7 +44,7 @@ Hi 👋, I'm **Nilamani Kundu**
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,flask,mysql,postgres,git,github,vercel,netlify,render&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,flask,mysql,git,github,vercel,netlify,render&theme=dark"/>
 </p>
 
 # 📊 GitHub Stats  
