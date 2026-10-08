@@ -16,7 +16,6 @@
 
 <img src="assets/id-dashboard.svg?v=2" alt="Auto-refreshed GitHub public metrics dashboard" width="100%" />
 
-**GitHub dashboard:** Public metrics are refreshed automatically by GitHub Actions approximately every 6 hours. The SVG shows only data returned by GitHub's public profile API.
 
 ## Featured Projects
 
@@ -45,4 +44,4 @@
 
 ---
 
-<sub>Built with SVG + CSS/SMIL, embedded Noto fonts, and the supplied transparent portraits. GitHub metrics are refreshed by GitHub Actions; no browser-side API calls are required.</sub>
+
