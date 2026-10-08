@@ -32,7 +32,25 @@
 
 <div align="center">
 
-[GitHub](https://github.com/Nilamani77) · [LinkedIn](https://www.linkedin.com/in/nilamani-kundu-8924bb259/) · [Instagram](https://www.instagram.com/nilamani_77/) · [Email](mailto:nilamanikundu2@gmail.com)
+<a href="https://github.com/Nilamani77">
+  <img src="assets/icons/github.svg" width="42" height="42" alt="GitHub" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/nilamani-kundu-8924bb259/">
+  <img src="assets/icons/linkedin.svg" width="42" height="42" alt="LinkedIn" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/nilamani_77/">
+  <img src="assets/icons/instagram.svg" width="42" height="42" alt="Instagram" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:nilamanikundu2@gmail.com">
+  <img src="assets/icons/email.svg" width="42" height="42" alt="Email" />
+</a>
+
+<br/>
+
+**GitHub** &nbsp; **LinkedIn** &nbsp; **Instagram** &nbsp; **Email**
 
 </div>
 
